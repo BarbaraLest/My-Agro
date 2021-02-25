@@ -1,5 +1,5 @@
 # My-Agro
-Aplicativo desenvolvido como projeto final para a disciplina de Desenvolvimento De Aplicações Para Dispositivos Móveis do curso de Ciência da Computação da Universidade Tecnológica Federal do Paraná, Campus Medianeira - 2020.
+Projeto produzido pela aluna Barbara Rodrigues na disciplina de Desenvolvimento de aplicativos móveis no ano de 2020 - 5º Semestre do Curso de Ciência da Computação, da Universidade Tecnológica Federal do Paraná - UTFPR Medianeira e sob a orientação do professor Everton Coimbra de Araújo. 
 
 
 # Sobre o Projeto
